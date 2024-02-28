@@ -28,15 +28,18 @@ body > div {
   justify-content: center;
 }
 .red {
-  background-color: #b05f6d;
+  background-color: #FF5747;
   color: white;
 }
 .blue {
   background-color: #275db3;
   color: white;
 }
-
 .home {
   background-color: white;
   color: black;
+}
+.orange {
+  background-color: #F58549;
+  color: white;
 }
