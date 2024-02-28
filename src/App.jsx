@@ -11,7 +11,7 @@ function App() {
     <>
       <div id="container">
         <div id="navbar">
-          <Link to = '/home'>Home</Link>
+          <Link to = '/'>Home</Link>
           <Link to = '/red'>Red</Link>
           <Link to = '/orange'>Orange</Link>
           <Link to = '/blue'>Blue</Link>
@@ -21,7 +21,7 @@ function App() {
             <Route path = '/blue' element = {<Blue/>} />
             <Route path = '/red' element = {<Red/>} />
             <Route path = '/orange' element = {<Orange/>} />
-            <Route path = '/home' element = {<Home/>} />
+            <Route path = '/' element = {<Home/>} />
           </Routes>
         </div>
       </div>

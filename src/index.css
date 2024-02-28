@@ -17,8 +17,7 @@ body > div {
 #navbar {
   padding: 2em;
   justify-content: space-evenly;
-  transition: transform 0.3s;
-  box-shadow: 0 2px 4px black;
+
 }
 #main-section {
   flex-grow: 1;
